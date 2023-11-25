@@ -12,6 +12,11 @@ Social media banking for the people of Palestine.
 
 ## Get Started
 
+<p align="center" width="50">
+  
+https://github.com/Filasteen-Engineering/Filasteen-Way/assets/25140579/9024674e-0753-400f-a76e-f9d12e82f873
+
+</p>
 
 Filasteen Way App is an open, decentralized and always available social media banking for the people of Palestine.
 
