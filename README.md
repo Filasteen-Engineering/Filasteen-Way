@@ -32,5 +32,5 @@ You can also scan this QR code to open the download page automatically.
 <br>
 
 <p align="center">
-<img src="https://githsub.com/Sakhir-Projects/sakhir-app/assets/25140579/b5ad51b3-b859-4078-beba-f98b66d6c808" width="300" />
+<img src="https://github.com/Filasteen-Engineering/Filasteen-Way/assets/25140579/04f05eb6-a245-4b70-b2e9-596a0cb33b34" width="300" />
 </p>
