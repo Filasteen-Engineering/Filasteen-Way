@@ -22,7 +22,7 @@ Filasteen Way is a social media banking app for the Palestinian people that's po
 
 - Nostr uses ultra-secure cryptographic key technology that can't be compromised.
 
-- 100% anonymous.  We keep big tech out of your life - no usernames, emails, or mobile numbers required!
+- 100% anonymous.  We keep big tech out of your life - - no emails or mobile numbers required!
 
 - Follow users with a familiar Twitter UI people have come to expect.
 
@@ -30,7 +30,7 @@ Filasteen Way is a social media banking app for the Palestinian people that's po
 
 - No one can manipulate posts you see or share with followers.
 
-- Receive Bitcoin from anyone in the world with built-in support for Lightning Addresses. (egx: you@filasteen.me)
+- Receive Bitcoin from anyone in the world with built-in support for Lightning Addresses. (ex: you@filasteen.me)
 
 
 It's the easiest way to start accepting Bitcoin for payments without having to be online all the time.
