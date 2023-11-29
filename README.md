@@ -1,6 +1,6 @@
-﻿# Filasteen Way App
+# Filasteen Way
 
-Social media banking for the people of Palestine.
+Social media banking for 🇵🇸
 
 <br>
 
