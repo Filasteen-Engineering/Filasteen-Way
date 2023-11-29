@@ -18,9 +18,22 @@ https://github.com/Filasteen-Engineering/Filasteen-Way/assets/25140579/9024674e-
 
 </p>
 
-Filasteen Way App is an open, decentralized and always available social media banking for the people of Palestine.
+Filasteen Way is a social media banking app for the Palestinian people that's powered by Nostr - a new decentralized protocol that enables truly open, censorship-resistant communication.
 
-Nostr is an open protocol that enables a truly censorship-resistant and global social network, Filasteen Way upgrades its capabilities with cryptographic keys to help purify intentions online, it make use of Nostr in order to provide a decentralized social network where you own everything you share, and no one can manipulate you, your thoughts and your data.
+- Nostr uses ultra-secure cryptographic key technology that can't be compromised.
+
+- 100% anonymous.  Your keys are your ID!
+
+- Follow users with a familiar Twitter UI people have come to expect.
+
+- You own your data - we keep big tech out of your life.
+
+- No one can manipulate posts you see or share with followers.
+
+- Receive Bitcoin from anyone in the world with built-in support for Lightning Addresses. (egx: you@filasteen.me)
+
+
+It's the easiest way to start accepting Bitcoin for payments without having to be online all the time.
 
 ## Download
 
