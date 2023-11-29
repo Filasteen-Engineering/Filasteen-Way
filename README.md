@@ -20,7 +20,7 @@ https://github.com/Filasteen-Engineering/Filasteen-Way/assets/25140579/9024674e-
 
 Filasteen Way App is an open, decentralized and always available social media banking for the people of Palestine.
 
-Nostr is an open protocol that enables a truly censorship-resistant and global social network, Sakhir upgrades its capabilities with cryptographic keys to help purify intentions online, it make use of Nostr in order to provide a decentralized social network where you own everything you share, and no one can manipulate you, your thoughts and your data.
+Nostr is an open protocol that enables a truly censorship-resistant and global social network, Filasteen Way upgrades its capabilities with cryptographic keys to help purify intentions online, it make use of Nostr in order to provide a decentralized social network where you own everything you share, and no one can manipulate you, your thoughts and your data.
 
 ## Download
 
