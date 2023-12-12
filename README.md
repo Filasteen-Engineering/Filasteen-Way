@@ -22,11 +22,11 @@ Filasteen Way is a social media banking app for the Palestinian people that's po
 
 - Nostr uses ultra-secure cryptographic key technology that can't be compromised.
 
-- 100% anonymous.  We keep big tech out of your life - - no emails or mobile numbers required!
+- 100% anonymous.  we don't require any of your personal data such as email(s) or phone number(s).
 
 - Follow users with a familiar Twitter UI people have come to expect.
 
-- You own your data - we keep big tech out of your life.
+- You own your data - we keep BIG TECH out of your life.
 
 - No one can manipulate posts you see or share with followers.
 
