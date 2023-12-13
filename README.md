@@ -37,7 +37,7 @@ It's the easiest way to start accepting Bitcoin for payments without having to b
 
 ## Download
 
-Before you begin, please notice that the app is available currently on Android only, you will need basically an Android phone at least Android version (5.0.0+).
+Before you begin, please notice that the app is available currently on Android only, you will need an Android phone with at least an Android version (5.0.0+).
 
 #### Direct download
 
@@ -50,5 +50,6 @@ You can also scan this QR code to open the download page automatically.
 <br>
 
 <p align="center">
-<img src="https://github.com/Filasteen-Engineering/Filasteen-Way/assets/25140579/04f05eb6-a245-4b70-b2e9-596a0cb33b34" width="300" />
+<img src="https://github.com/Filasteen-Engineering/Filasteen-Way/assets/25140579/799272ca-38de-4fe3-963a-e683f61d6077" width="300" />
 </p>
+
